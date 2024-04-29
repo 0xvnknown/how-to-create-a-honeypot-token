@@ -2,7 +2,7 @@
 1) Open Remix IDE [https://remix.ethereum.org/]
 2) Create new file (you can name it contract.sol)
 3) Paste the code
-4) Change Supply ("supplynumber+00000000000000000"), Token Symbol, Token Name
+4) Change Symbol, Token Name, Supply *remember to add 18 times 0 to the supply number (e.g. 1000 supply -> write 1000000000000000000000)
 5) Compile contract (v0.8.18+---)
 6) Deploy contract
 ---
