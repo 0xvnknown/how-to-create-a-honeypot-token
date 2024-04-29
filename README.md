@@ -1,6 +1,6 @@
 # how-to-create-a-honeypot-token
-1) Open Remix IDE
-2) Create new file (contract.sol)
+1) Open Remix IDE [https://remix.ethereum.org/]
+2) Create new file (you can name it contract.sol)
 3) Paste the code
 4) Change Supply ("supplynumber+00000000000000000"), Token Symbol, Token Name
 5) Compile contract (v0.8.18+---)
